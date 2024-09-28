@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background-color: salmon;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
